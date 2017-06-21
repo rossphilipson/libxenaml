@@ -1,0 +1,12 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+
+Name: libxenaml
+Description: libxenaml
+Requires: 
+Version: %VERSION%
+Libs: -L${libdir} -lxenaml
+Cflags: -I${includedir}
+

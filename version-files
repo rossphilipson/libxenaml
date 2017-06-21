@@ -1,0 +1,7 @@
+src/xenaml-head.h.in
+src/xenaml-tail.h
+src/prototypes.h
+src/ext_prototypes.h
+src/libxenaml.c
+src/version.c
+src/project.h
